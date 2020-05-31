@@ -3,4 +3,4 @@
 Custom GST Calculator for JSR Medicare.
 Requirement Given by JSR Medicare
 
-![screenshot 1](1.jpg)
+<img src="1.jpg" height=400>
