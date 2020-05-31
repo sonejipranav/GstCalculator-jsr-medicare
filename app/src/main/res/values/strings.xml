@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+    <string name="_12">12 %</string>
+    <string name="_5">5 %</string>
+    <string name="_18">18 %</string>
+    <string name="_28">28 %</string>
+    <string name="sale_rate">0.0</string>
+    <string name="calculate">Calculate</string>
+    <string name="sale_valuedis">Sale Value :</string>
+    <string name="gst_rate">GST Rate :</string>
+    <string name="price_mrp">Price (MRP) :</string>
+    <string name="clear">Clear</string>
+    <string name="jsr_medicare">JSR Medicare</string>
+    <string name="developed_by_pranav_soneji">Developed by Pranav Soneji.</string>
+    <string name="okay">Okay!</string>
+    <string name="links">Facebook: <a href="https://www.facebook.com/sonejipranav">https://www.facebook.com/sonejipranav</a>
+        \nTwitter: <a href="https://twitter.com/sonejipranav">https://twitter.com/sonejipranav</a>
+        \nLinkedin: <a href="https://www.linkedin.com/in/sonejipranav">https://www.linkedin.com/in/sonejipranav</a>
+        \nInstagram: <a href="https://www.instagram.com/soneji_pranav/">https://www.instagram.com/soneji_pranav/</a>
+    </string>
+</resources>
